@@ -43,7 +43,7 @@ let years = age - 10;
 console.log("У Вити появится велосипед через: " + years + " лет");
                                     // task 4
 let word = "Шалаш";
-let word = "Огород";
+let word2 = "Огород";
 let reWord = "";
 
 for (let i = 0; i < word.length; i++) {
